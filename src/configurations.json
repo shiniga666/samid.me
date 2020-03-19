@@ -1,0 +1,40 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "devIntro": "Dimas Prabaswara W.",
+  "devDesc": "| System Administrator | Dev Ops | Linux Enthusiast | Security Analyst ",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/shiniga666",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/dimas.myung",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/darklord_lavey/",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/dimasprabaswara/",
+      "style": "socialicons"
+    }
+  ],
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "darklord_lavey",
+  "instaQuerry": "/?__a=1",
+  "aboutDev": "Hardworking system administrator proficient in hardware, software and security planning.Focused on performance optimization and technical improvements with an understanding of cost-effective decision making and usability. Knowledgeable Database administration with significant knowledge in Postgresql ,Oracle and MySQL database systems.",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "shiniga666",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc"
+}
