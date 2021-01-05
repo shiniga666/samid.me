@@ -10,7 +10,7 @@
     "url": "https://github.com/shiniga666"
   },
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "gh-pages": "^2.1.1",
     "jquery": "^3.4.1",
